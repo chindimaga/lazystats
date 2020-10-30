@@ -1,2 +1,2 @@
 # lazystats
-A library related basic maths implementations
+A library with basic maths implementations
