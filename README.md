@@ -1,2 +1,1 @@
-# lazystats
-A library with basic maths implementations
+This is a basic library for probab dists
