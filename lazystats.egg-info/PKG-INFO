@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: lazystats
+Version: 0.0.0
+Summary: This library has basic mathematical implementations which can increase your working pace
+Home-page: https://github.com/chindimaga/lazystats
+Author: Rahul D & Samarth
+Author-email: d18b@iitg.ac.in
+License: Apache License 2.0
+Download-URL: https://pypi.org/project/lazystats/
+Description: This is a basic library for probab dists
+        
+        
+        Change Log
+        ============
+        
+        0.0.1 (31/10/2020)
+        
+        First release
+        
+        Added a pseudo random number generator
+        
+Keywords: Statistics,Probability,Maths
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

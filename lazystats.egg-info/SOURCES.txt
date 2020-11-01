@@ -1,0 +1,11 @@
+CHANGELOG.txt
+MANIFEST.in
+README.md
+__init__.py
+setup.py
+lazystats/Randnums.py
+lazystats/__init__.py
+lazystats.egg-info/PKG-INFO
+lazystats.egg-info/SOURCES.txt
+lazystats.egg-info/dependency_links.txt
+lazystats.egg-info/top_level.txt

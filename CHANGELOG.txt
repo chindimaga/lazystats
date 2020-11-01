@@ -5,4 +5,4 @@ Change Log
 
 First release
 
-Added a Uniform Distribution Generator
+Added a pseudo random number generator
