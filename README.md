@@ -1,3 +1,6 @@
+![Upload Python Package](https://github.com/chindimaga/lazystats/workflows/Upload%20Python%20Package/badge.svg)
+
+
 This library has basic mathematical implementations which can increase your working pace
 
 ## To install 
