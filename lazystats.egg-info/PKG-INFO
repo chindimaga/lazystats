@@ -1,11 +1,11 @@
 Metadata-Version: 2.1
 Name: lazystats
-Version: 0.0.0
+Version: 0.0.1
 Summary: This library has basic mathematical implementations which can increase your working pace
 Home-page: https://github.com/chindimaga/lazystats
 Author: Rahul D & Samarth
 Author-email: d18b@iitg.ac.in
-License: Apache License 2.0
+License: MIT License
 Download-URL: https://pypi.org/project/lazystats/
 Description: This is a basic library for probab dists
         
