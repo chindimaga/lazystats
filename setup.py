@@ -8,7 +8,7 @@ with open('CHANGELOG.txt') as history_file:
 
 setup_args = dict(
     name='lazystats',
-    version='0.0.2',
+    version='0.0.3',
     description='This library has basic mathematical implementations which can increase your working pace',
     long_description_content_type="text/markdown",
     long_description=README + '\n\n' + HISTORY,
