@@ -1,13 +1,22 @@
 Metadata-Version: 2.1
 Name: lazystats
-Version: 0.0.1
+Version: 0.0.2
 Summary: This library has basic mathematical implementations which can increase your working pace
 Home-page: https://github.com/chindimaga/lazystats
 Author: Rahul D & Samarth
 Author-email: d18b@iitg.ac.in
 License: MIT License
 Download-URL: https://pypi.org/project/lazystats/
-Description: This is a basic library for probab dists
+Description: This library has basic mathematical implementations which can increase your working pace
+        
+        ## To install 
+        > pip install lazystats
+        ## How to use 
+        
+        > import lazystats
+        > a = lazystats.Randnums.LCG(10,100)
+        > a.generate()
+        
         
         
         Change Log

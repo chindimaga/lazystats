@@ -1,7 +1,6 @@
 CHANGELOG.txt
 MANIFEST.in
 README.md
-__init__.py
 setup.py
 lazystats/Randnums.py
 lazystats/__init__.py
