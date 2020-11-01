@@ -21,7 +21,7 @@ class LCG:
         self.c=12345
 
     def generate(self):
-        """ Produce samples exclusive of upper and lower limit"""
+        """ Produce samples inclusive of upper and lower limit"""
         self.samples = []
         if self.seed is None:
             x = int(time.time())

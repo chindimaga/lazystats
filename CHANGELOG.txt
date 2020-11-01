@@ -6,3 +6,9 @@ Change Log
 First release
 
 Added a pseudo random number generator
+
+============
+0.0.3 (01/11/2020)
+
+
+Cleared bugs in th LCG
